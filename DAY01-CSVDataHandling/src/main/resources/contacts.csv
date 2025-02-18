@@ -1,0 +1,6 @@
+ID,Name,Email,Phone
+101,John Doe,johndoe@example.com,9876543210
+102,Jane Smith,janesmith@domain,123456789  // Invalid Email
+103,David Brown,david.brown@company.com,9123456789
+104,Emily White,emily@white.org,987654  // Invalid Phone Number
+105,Michael Green,michael.green@site.com,9988776655
