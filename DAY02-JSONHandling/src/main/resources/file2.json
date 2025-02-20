@@ -1,0 +1,8 @@
+{
+  "age": 25,
+  "email": "alice@newdomain.com",
+  "address": {
+    "zip": "10002",
+    "country": "USA"
+  }
+}
